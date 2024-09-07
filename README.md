@@ -42,5 +42,5 @@
   <a href="https://raphaelsantos141.github.io/portfolio-raphaelaugusto/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a> 
 </div>
 
-![snake animation](https://github.com/<raphaelsantos141>/<raphaelsantos141>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/raphaelsantos141/raphaelsantos141/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
 
