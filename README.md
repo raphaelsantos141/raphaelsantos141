@@ -42,9 +42,5 @@
   <a href="https://raphaelsantos141.github.io/portfolio-raphaelaugusto/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a> 
 </div>
 
-<div align="center">
-<!--   <picture> -->
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/raphaelsantos141/raphaelsantos141/output/github-contribution-grid-snake-dark.svg" />
-<!--   </picture> -->
-</div>
+![snake animation](https://github.com/<raphaelsantos141>/<raphaelsantos141>/blob/output/github-contribution-grid-snake2.svg)
 
