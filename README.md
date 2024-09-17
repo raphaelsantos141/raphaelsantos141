@@ -6,7 +6,7 @@
 
 <div align="center">
   
-Desenvolvedor | Designer | Eterno Estudante
+**Desenvolvedor | Designer | Eterno Estudante**
 
 
 
