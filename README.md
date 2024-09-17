@@ -9,7 +9,7 @@
 Desenvolvedor | Designer | Eterno Estudante
 
 
-🌱 Também estou estudando Python
+
 
 
 </div>
