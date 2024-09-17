@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Front - end
+Desenvolvedor | Designer | Eterno Estudante
 
 
 🌱 Também estou estudando Python
