@@ -26,6 +26,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
   <img align="center" alt="Premiere" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg">
   <img align="center" alt="VsCode" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg">
