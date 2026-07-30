@@ -50,43 +50,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelsantos141&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsantos141&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raphaelsantos141&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raphaelsantos141&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-### 🐍 Contribuições (Snake)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaelsantos141/raphaelsantos141/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphaelsantos141/raphaelsantos141/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/raphaelsantos141/raphaelsantos141/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>⚙️ Precisa da GitHub Action <code>Platane/snk</code> configurada no repositório para gerar esse SVG — instruções abaixo.</sub>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/raphaelsantos141/raphaelsantos141/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="pacman contribution graph" />
   <img src="https://raw.githubusercontent.com/raphaelsantos141/raphaelsantos141/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="pacman contribution graph" />
